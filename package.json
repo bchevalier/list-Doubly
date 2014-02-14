@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bchevalier/list-Doubly.git"
+    "url": "git://github.com/Wizcorp/list-Doubly.git"
   },
   "author": "bchevalier",
   "license": "MIT",
   "gitHead": "37db04d90e64792aad99eba856c79f3bdb89b9e0",
   "bugs": {
-    "url": "https://github.com/bchevalier/list-Doubly/issues"
+    "url": "https://github.com/Wizcorp/list-Doubly/issues"
   }
 }
